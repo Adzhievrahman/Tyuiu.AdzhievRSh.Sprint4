@@ -5,7 +5,7 @@ namespace Tyuiu.AdzhievRSh.Sprint4.Task3.V22
 {
     class Program
     { 
-        static void Main(string[] args) 
+        static void Main(string[] args)  
         {
             Console.Title = "Спринт #4 | Task #3 | Вариант 22";
 

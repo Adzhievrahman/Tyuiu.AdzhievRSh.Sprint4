@@ -7,7 +7,7 @@ namespace Tyuiu.AdzhievRSh.Sprint4.Task3.V22.Lib
     {
         public int Calculate(int[,] array)
         {
-            int max = array[0, 0];
+            int max = array[0, 0]; 
 
             for (int j = 0; j < array.GetLength(1); j++)
             {

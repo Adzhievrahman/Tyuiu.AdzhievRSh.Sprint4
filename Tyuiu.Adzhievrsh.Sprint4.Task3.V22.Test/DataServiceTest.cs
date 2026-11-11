@@ -11,7 +11,7 @@ namespace Tyuiu.AdzhievRSh.Sprint4.Task3.V22.Test
         {
             DataService service = new DataService();
 
-            int[,] array =
+            int[,] array = 
             {
                 { 4, 4, 7, 8, 9 },
                 { 9, 5, 9, 7, 8 },
