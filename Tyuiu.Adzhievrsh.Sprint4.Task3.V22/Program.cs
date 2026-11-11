@@ -37,6 +37,7 @@ namespace Tyuiu.AdzhievRSh.Sprint4.Task3.V22
                 {
                     Console.Write(array[i, j] + "\t");
                 }
+
                 Console.WriteLine();
             }
 
