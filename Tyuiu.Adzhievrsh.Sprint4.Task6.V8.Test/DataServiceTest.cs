@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Tyuiu.Adzhievrsh.Sprint4.Task6.V8.Lib;
+using Tyuiu.AdzhievRSh.Sprint4.Task6.V8.Lib;
 
-namespace Tyuiu.Adzhievrsh.Sprint4.Task6.V8.Test
+namespace Tyuiu.AdzhievRSh.Sprint4.Task6.V8.Test
 {
     [TestClass]
     public class DataServiceTest
     {
-        [TestMethod] 
+        [TestMethod]
         public void Calculate_ReturnsWordsLongerThanFour()
         {
             DataService service = new DataService();
