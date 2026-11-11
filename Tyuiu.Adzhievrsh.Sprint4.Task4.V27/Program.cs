@@ -4,7 +4,7 @@ using Tyuiu.AdzhievRSh.Sprint4.Task4.V27.Lib;
 namespace Tyuiu.AdzhievRSh.Sprint4.Task4.V27
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             Console.Title = "Спринт #4 | Task #4 | Вариант 27";
