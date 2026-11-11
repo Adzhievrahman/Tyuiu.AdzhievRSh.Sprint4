@@ -30,8 +30,13 @@
     <Project Path="Tyuiu.Adzhievrsh.Sprint4.Task5.V16/Tyuiu.Adzhievrsh.Sprint4.Task5.V16.csproj" Id="76a15f37-d2f2-439c-a961-75d98302ce10" />
   </Folder>
   <Folder Name="/Task6/">
-    <Project Path="Tyuiu.Adzhievrsh.Sprint4.Task6.V8.Lib/Tyuiu.Adzhievrsh.Sprint4.Task6.V8.Lib.csproj" Id="5195ebfd-7935-4157-9318-4558f05fd7b4" DisplayName="Tyuiu.AdzhievRSh.Sprint4.Task6.V8.Lib" />
-    <Project Path="Tyuiu.Adzhievrsh.Sprint4.Task6.V8.Test/Tyuiu.Adzhievrsh.Sprint4.Task6.V8.Test.csproj" Id="20d6f22a-72e9-4f3a-98db-14343ba354ea" DisplayName="Tyuiu.AdzhievRSh.Sprint4.Task6.V8.Test" />
-    <Project Path="Tyuiu.Adzhievrsh.Sprint4.Task6.V8/Tyuiu.Adzhievrsh.Sprint4.Task6.V8.csproj" Id="fd1bd59c-b86c-4fc7-807e-1f27a5ec3206" DisplayName="Tyuiu.AdzhievRSh.Sprint4.Task6.V8" />
+    <Project Path="Tyuiu.AdzhievRSh.Sprint4.Task6.V8.Lib/Tyuiu.AdzhievRSh.Sprint4.Task6.V8.Lib.csproj" Id="5195ebfd-7935-4157-9318-4558f05fd7b4" />
+    <Project Path="Tyuiu.AdzhievRSh.Sprint4.Task6.V8.Test/Tyuiu.AdzhievRSh.Sprint4.Task6.V8.Test.csproj" Id="20d6f22a-72e9-4f3a-98db-14343ba354ea" />
+    <Project Path="Tyuiu.AdzhievRSh.Sprint4.Task6.V8/Tyuiu.AdzhievRSh.Sprint4.Task6.V8.csproj" Id="fd1bd59c-b86c-4fc7-807e-1f27a5ec3206" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.Adzhievrsh.Sprint4.Task7.V23.Lib/Tyuiu.Adzhievrsh.Sprint4.Task7.V23.Lib.csproj" Id="279215b3-f349-4c70-96a7-d1ca81fb92cd" />
+    <Project Path="Tyuiu.Adzhievrsh.Sprint4.Task7.V23.Test/Tyuiu.Adzhievrsh.Sprint4.Task7.V23.Test.csproj" Id="3935761f-0a3d-429d-bba5-63e739a3e420" />
+    <Project Path="Tyuiu.Adzhievrsh.Sprint4.Task7.V23/Tyuiu.Adzhievrsh.Sprint4.Task7.V23.csproj" Id="92553721-0c7e-45aa-aba9-809477cca913" />
   </Folder>
 </Solution>
