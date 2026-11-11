@@ -6,7 +6,7 @@ namespace Tyuiu.Adzhievrsh.Sprint4.Task6.V8.Test
     [TestClass]
     public class DataServiceTest
     {
-        [TestMethod]
+        [TestMethod] 
         public void Calculate_ReturnsWordsLongerThanFour()
         {
             DataService service = new DataService();
