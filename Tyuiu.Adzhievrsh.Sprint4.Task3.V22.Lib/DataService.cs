@@ -5,7 +5,7 @@ namespace Tyuiu.AdzhievRSh.Sprint4.Task3.V22.Lib
 {
     public class DataService : ISprint4Task3V22
     {
-        public int Calculate(int[,] array)
+        public int Calculate(int[,] array) 
         {
             int max = array[0, 0]; 
 
