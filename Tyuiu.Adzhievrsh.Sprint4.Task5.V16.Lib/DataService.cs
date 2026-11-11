@@ -3,7 +3,7 @@
 
 namespace Tyuiu.AdzhievRSh.Sprint4.Task5.V16.Lib
 {
-    public class DataService : ISprint4Task5V16
+    public class DataService : ISprint4Task5V16  
     {
         public int[,] Calculate(int[,] matrix)
         {
